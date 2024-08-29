@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # calculator-project
 
 Overview
@@ -27,5 +25,3 @@ To achieve Single Responsibility principle and to keep the enum open for modific
 The Calculator.java is the core class which will utilize a map to associate each Operation with its corresponding OperationStrategy. This allows for easy extensibility and adheres to the Open-Closed Principle. 
 CalculatorTest.java contains all the unit tests
 AppConfig.java file supports the IOC
-
->>>>>>> 24642396fcafffd1a1a456bc2950627a6f3c2338

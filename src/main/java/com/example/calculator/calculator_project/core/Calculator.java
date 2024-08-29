@@ -1,11 +1,11 @@
-package com.example.calculator.core;
+package com.example.calculator.calculator_project.core;
 
 import java.util.*;
 
 import org.springframework.stereotype.Component;
 
-import com.example.calculator.Operation;
-import com.example.calculator.OperationStrategy;
+import com.example.calculator.calculator_project.operations.Operation;
+import com.example.calculator.calculator_project.operations.OperationStrategy;
 
 @Component
 public class Calculator {

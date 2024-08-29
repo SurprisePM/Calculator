@@ -1,17 +1,17 @@
-package com.example.calculator.config;
+package com.example.calculator.calculator_project.config;
 
 import java.util.Map;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.example.calculator.Operation;
-import com.example.calculator.OperationStrategy;
-import com.example.calculator.core.Calculator;
-import com.example.calculator.operations.AdditionOperation;
-import com.example.calculator.operations.DivisionOperation;
-import com.example.calculator.operations.MultiplicationOperation;
-import com.example.calculator.operations.SubtractionOperation;
+import com.example.calculator.calculator_project.core.Calculator;
+import com.example.calculator.calculator_project.operations.AdditionOperation;
+import com.example.calculator.calculator_project.operations.DivisionOperation;
+import com.example.calculator.calculator_project.operations.MultiplicationOperation;
+import com.example.calculator.calculator_project.operations.Operation;
+import com.example.calculator.calculator_project.operations.OperationStrategy;
+import com.example.calculator.calculator_project.operations.SubtractionOperation;
 
 @Configuration
 public class AppConfig {

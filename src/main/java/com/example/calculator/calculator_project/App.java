@@ -5,8 +5,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.example.calculator.Operation;
-import com.example.calculator.core.Calculator;
+import com.example.calculator.calculator_project.core.Calculator;
+import com.example.calculator.calculator_project.operations.Operation;
 
 @SpringBootApplication(scanBasePackages = "com.example.calculator")
 public class App implements CommandLineRunner{

@@ -1,6 +1,4 @@
-package com.example.calculator.operations;
-
-import com.example.calculator.OperationStrategy;
+package com.example.calculator.calculator_project.operations;
 
 public class DivisionOperation implements OperationStrategy{
 
