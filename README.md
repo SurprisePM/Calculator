@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # calculator-project
 
 Overview
@@ -15,7 +13,7 @@ Testing: Unit tests are written for normal and edge cases
 
 
 SetUp
-Download the project form the git repo:
+Download the project form the git repo: https://github.com/SurprisePM/Calculator.git
 Export the project to the IDE and build.
 junit5, spring-boot-starter are added as dependencies
 
