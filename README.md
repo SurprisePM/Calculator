@@ -1,4 +1,3 @@
-# Calculator
 # calculator-project
 
 Overview
